@@ -13,3 +13,10 @@ System.out.println("java");
 
 
 }
+
+
+class{
+    System.out.println("mewow");
+    
+    System.out.println("hello");
+}
